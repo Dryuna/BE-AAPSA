@@ -10,4 +10,5 @@ b) Select the Start button and locate the folder where the video frames are (in 
 The executable will show the input frame, foreground result and the background estimation result.
 
 Please cite the following paper 
+
 Graciela Ramirez-Alonso, Juan A. Ramirez-Quintana, and Mario I. Chacon-Murguia. Temporal weighted learning model for background estimation with an automatic re-initialization stage and adaptive parameters update. Pattern Recognition Letters.
